@@ -28,11 +28,11 @@
   },
   "Nana-Userbot-Remix-AJHalili2006": {
     "Author": "AndreiJirohHaliliDev2006",
-    "repo-link": "https://github.com/AndreiJirohHaliliDev2006/Nana-Remix",
+    "repo-link": "https://github.com/MadeByThePinsHub/Nana-Remix",
     "version": {
       "stable": {
         "is-beta": false,
-        "dockerfile": "https://raw.githubusercontent.com/AndreiJirohHaliliDev2006/Nana-Remix/master/Dockerfile",
+        "dockerfile": "https://raw.githubusercontent.com/MadeByThePinsHub/Nana-Remix/master/Dockerfile",
         "description": "Forked version of Nana userbot, maintained by Andrei Jiroh and currently synced with official releases."
       }
     }
